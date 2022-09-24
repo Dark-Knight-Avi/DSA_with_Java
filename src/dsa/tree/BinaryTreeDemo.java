@@ -14,5 +14,7 @@ public class BinaryTreeDemo {
         traverse.postOrderTraverse(root);
         System.out.println();
         traverse.levelOrderTraversal(root);
+        HeightOfBT height = new HeightOfBT();
+        System.out.println("Hieght of the tree is: " + height.findHeight(root));
     }
 }
