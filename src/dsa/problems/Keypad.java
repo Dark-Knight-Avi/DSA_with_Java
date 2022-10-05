@@ -42,6 +42,6 @@ public class Keypad {
         return newStr;
     }
     public static void main(String[] args) {
-        System.out.println(printSequence("GFG"));
+        System.out.println(printSequence("SOURAV"));
     }
 }
