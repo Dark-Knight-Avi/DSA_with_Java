@@ -24,7 +24,7 @@ public class Anagram {
 //        System.out.println();
 //        for (char ch: arr2){
 //            System.out.print(ch);
-//        }
+//        } commment
 //        System.out.println();
         HashSet<Character> set1 = new HashSet<>(arr1);
         HashSet<Character> set2 = new HashSet<>(arr2);
